@@ -7,6 +7,7 @@ int main()
     /* 
     Nama : Dicky Pranata
     NIM : A11.2022.14615
+    Kelompok : 4116
     */
     int p, l, t;
     cout << "Masukkan angka p : ";
